@@ -1,2 +1,2 @@
-# 1matheusmendes-spotify-clone
+# Spotify-clone
 Clone Web site spotify
